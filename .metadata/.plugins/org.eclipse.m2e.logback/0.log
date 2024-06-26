@@ -2,3 +2,6 @@
 2024-06-24 17:09:01,785 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-06-24 17:11:05,884 [Worker-13: Building] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[D:\leeyw\workspace\project1\.git]
 2024-06-26 14:02:46,908 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-26 14:03:26,943 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-26 14:07:14,055 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[D:\workspace\project3\.git]
+2024-06-26 14:08:27,981 [Worker-10: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[D:\workspace\Project2\.git]
