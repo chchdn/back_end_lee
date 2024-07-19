@@ -14,6 +14,7 @@ public class Quiz1 {
 		// pc변수는 Parents클래스의 멤버변수만 사용할 수 있음
 		System.out.println(pc.lastName);
 		System.out.println(pc.nationality);
+		System.out.println();
 
 		// pc변수로 자식클래스의 이름은 사용할 수 없음
 		// System.out.println(pc.firstName);
